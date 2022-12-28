@@ -1,0 +1,22 @@
+Important Info About Travis and Account Registration
+In the upcoming lecture, we will be signing up for an account with Travis. Since travis-ci.org is no longer operational, you will be redirected to sign up at:
+
+https://www.travis-ci.com/
+
+Along with this change, they have also updated their terms regarding free accounts and credits due to crypto mining abuse:
+
+https://blog.travis-ci.com/2021-10-20-mining
+
+Because of this, you will need to select a plan after registering.
+
+Select Monthly Plans and then the free Trial Plan. This will give you 10,000 free credits to use within 30 days.
+
+
+
+After this trial period, the plan will expire. It is possible that you will not finish the course by the time the credits expire.
+
+If you run out of credits, are unable to register for a Travis account, or, if you simply do not wish to use Travis - We have provided guidance to use Github Actions instead (scroll past the lecture video to see the featured question):
+
+https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437142#questions/17673926
+
+
